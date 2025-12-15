@@ -1,1 +1,8 @@
+{
+  "name": "MF Analytics",
+  "short_name": "MF Analytics",
+  "display": "standalone",
+  "start_url": "/",
+  "icons": [{ "src": "/icon.png", "sizes": "192x192" }]
+}
 
